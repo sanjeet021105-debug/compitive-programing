@@ -5,9 +5,11 @@ public class square_pattern{
         Scanner sc = new Scanner(System.in);
         System.out.print("enter n: ");
         int n = sc.nextInt();
+        System.out.print("enter m: ");
+        int m = sc.nextInt();
 
         for (int i = 1; i <=n; i++) {
-            for (int j = 1; j <=n; j++) {
+            for (int j = 1; j <=m; j++) {
                 System.out.print("*");
             }System.out.println();
             
