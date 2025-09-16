@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class holllo_space_rectangle {
+public class holllow_space_rectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter n: ");

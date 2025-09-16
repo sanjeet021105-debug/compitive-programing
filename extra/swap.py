@@ -7,4 +7,4 @@ for i in range(len(list)//2):
 print(list)
 
 
-print(list.reverse)
+

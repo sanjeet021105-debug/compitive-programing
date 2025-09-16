@@ -1,5 +1,5 @@
 a = "hello sanjeet"
-#by deafult space as split function 
+                        #by deafult space as split function 
 print(a.split())
 
 b = "MY:Name:is:Sanjeet"
