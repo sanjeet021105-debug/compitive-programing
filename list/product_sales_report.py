@@ -5,5 +5,5 @@ minimum =[]
 for i in range(len(a)):
     maximum = max(a)
     minimum = min(a)
-print(maximum)
-print(minimum)
+print(maximum,minimum)
+

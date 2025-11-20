@@ -1,0 +1,1 @@
+# given an array find the sum of all's sub array

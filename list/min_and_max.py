@@ -14,5 +14,4 @@ print("maximun: ",maximum)
 print("minimum: ",minimum)            
     
 
-a = list(map(int,input().split()))
 
